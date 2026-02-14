@@ -18,6 +18,8 @@
     "vue-router": "^5.0.0"
   },
   "dependencies": {
+    "@netlify/functions": "^5.1.2",
+    "@netlify/neon": "^0.1.2",
     "@nuxt/image": "^2.0.0",
     "@tailwindcss/vite": "^4.0.16"
   }

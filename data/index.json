@@ -1,104 +1,104 @@
 {
   "hero": {
-    "title": "Build Blazing-Fast Websites with Nuxt.js & Netlify",
-    "description": "Craft high-performing, SEO-friendly web experiences with the dynamic power of Nuxt.js and the speed of Netlify's global edge network.",
+    "title": "Automate Your eBay Dropshipping Business",
+    "description": "ProfitTrack centralizes product management, listing automation, order tracking, smart pricing, and analytics — all in one powerful dashboard.",
     "image": "images/hero.jpg",
-    "imageAlt": "Nuxt logo and title on abstract background",
+    "imageAlt": "ProfitTrack eBay dropshipping dashboard",
     "buttons": [
       {
-        "label": "Get Started Today",
-        "url": "https://www.netlify.com/"
+        "label": "Go to Dashboard",
+        "url": "/dashboard"
       }
     ]
   },
   "logos": {
-    "title": "Trusted by the world's best",
+    "title": "Built with modern technology",
     "icons": [
       {
-        "name": "i-simple-icons-gitlab"
+        "name": "i-simple-icons-nuxtdotjs"
       },
       {
-        "name": "i-simple-icons-github"
+        "name": "i-simple-icons-vuedotjs"
       },
       {
-        "name": "i-simple-icons-openai"
-      },
-      {
-        "name": "i-simple-icons-google"
+        "name": "i-simple-icons-tailwindcss"
       },
       {
         "name": "i-simple-icons-netlify"
+      },
+      {
+        "name": "i-simple-icons-postgresql"
       }
     ]
   },
   "features": {
-    "title": "Why choose Nuxt.js?",
-    "description": "Nuxt.js is a powerful framework built on top of Vue.js that provides an excellent developer experience.",
+    "title": "Everything You Need to Scale",
+    "description": "ProfitTrack replaces spreadsheets, manual repricing, and missed orders with a centralized automation platform.",
     "items": [
       {
-        "title": "Server-Side Rendering",
-        "description": "Nuxt.js allows you to build SSR applications with Vue.js, ensuring fast initial page loads and better SEO."
+        "title": "Product Database",
+        "description": "Manage your entire product catalog with auto-calculated pricing, category filtering, and profit tracking per product."
       },
       {
-        "title": "Static Site Generation",
-        "description": "You can pre-render pages at build time for static websites. This helps with performance and scalability by serving content directly from a CDN."
+        "title": "eBay Listing Automation",
+        "description": "Create SEO-optimized eBay listings with auto-generated titles and descriptions. Publish directly from your dashboard."
       },
       {
-        "title": "Auto-Routing",
-        "description": "Nuxt automatically generates routes based on the file structure inside the pages directory, reducing the need for manual configuration."
+        "title": "Order Tracking",
+        "description": "Receive and track orders with full status flow: New, Ordered, Shipped, Delivered. See profit per order in real-time."
       },
       {
-        "title": "File-based Configuration",
-        "description": "Nuxt uses a convention-over-configuration approach, allowing you to define configurations easily in nuxt.config.js without much boilerplate."
+        "title": "Smart Pricing",
+        "description": "Track competitor prices and automatically adjust your listings to stay competitive while protecting your margins."
       },
       {
-        "title": "Dynamic Imports",
-        "description": "It supports lazy loading of components with dynamic imports to improve performance by splitting the code into smaller chunks."
+        "title": "Analytics Dashboard",
+        "description": "Monitor total revenue, net profit, sell-through rate, top products, and worst performers — all at a glance."
       },
       {
-        "title": "SEO Friendly",
-        "description": "With SSR, SSG, and automatic meta tag handling, Nuxt.js ensures your application is SEO-friendly."
+        "title": "Webhook Integration",
+        "description": "Receive eBay order notifications automatically via webhooks. Orders are saved, profit calculated, and stats updated instantly."
       }
     ]
   },
   "testimonials": {
-    "title": "What Our Users Are Saying",
-    "description": "Hear from our clients about their experiences working with Nuxt and Netlify.",
+    "title": "Built for eBay Sellers",
+    "description": "ProfitTrack is designed for dropshippers who want to scale without spreadsheets.",
     "items": [
       {
-        "quote": "Nuxt has made building our projects so much easier and more enjoyable! Its simple setup and powerful features help us create fast, responsive websites with minimal effort.",
+        "quote": "No more spreadsheets to track orders. ProfitTrack gives me instant visibility into every sale, its profit, and where it stands in the shipping process.",
         "author": {
           "name": "Daniel H.",
-          "title": "Marketing Specialist at Some Company",
+          "title": "eBay Dropshipper",
           "avatar": "images/person-1.jpg"
         }
       },
       {
-        "quote": "The scalability offered by Netlify and the flexibility of Nuxt have allowed us to expand our site's functionality without worrying about performance issues. This combination is a powerful solution for any growing business.",
+        "quote": "The auto-pricing feature alone saves me hours each week. I can track competitors and let the system adjust my prices automatically while protecting my margins.",
         "author": {
           "name": "Sarah L.",
-          "title": "CEO at Some Company",
+          "title": "eCommerce Entrepreneur",
           "avatar": "images/person-2.jpg"
         }
       },
       {
-        "quote": "Switching to Nuxt and Netlify was a game-changer for our development process. The seamless integration between the two platforms allowed us to deploy faster and with fewer headaches.",
+        "quote": "From listing creation to order fulfillment, everything is in one place. I scaled from 50 to 500 listings without any extra tools.",
         "author": {
           "name": "Mark T.",
-          "title": "Frontend Engineer at Some Company",
+          "title": "Multi-store eBay Seller",
           "avatar": "images/person-3.jpg"
         }
       }
     ]
   },
   "cta": {
-    "title": "Start Building with Nuxt & Netlify",
-    "description": "Let your next project be smarter, faster, and effortlessly deployable.",
+    "title": "Start Managing Your eBay Business",
+    "description": "No spreadsheets. No missed orders. No manual repricing. Everything centralized.",
     "buttons": [
       {
-        "label": "Get Started Today",
-        "url": "https://www.netlify.com/"
+        "label": "Go to Dashboard",
+        "url": "/dashboard"
       }
     ]
   }
-} 
+}
