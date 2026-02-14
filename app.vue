@@ -1,16 +1,16 @@
 <script setup>
 useHead({
   htmlAttrs: { lang: "en-US" },
-  title: "Nuxt Starter",
+  title: "ProfitTrack - eBay Dropshipping Manager",
   meta: [
     {
       name: "description",
       content:
-        "Nuxt Starter is a minimal template created for quick landing pages, built with Nuxt and Tailwind CSS.",
+        "ProfitTrack is an eBay dropshipping management platform with automated listings, order tracking, smart pricing, and analytics.",
     },
   ],
   bodyAttrs: {
-    class: 'font-display'
+    class: 'font-display bg-gray-50'
   }
 });
 </script>
